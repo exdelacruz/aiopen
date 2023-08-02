@@ -14,7 +14,7 @@ Original file is located at
 
 """##### import the relevant libraries"""
 
-!pip install openai
+pip install openai
 
 import urllib.request
 from PIL import Image
