@@ -1,5 +1,16 @@
 # -*- coding: utf-8 -*-
 
+import urllib.request
+from PIL import Image
+import numpy as np
+import matplotlib.pyplot as plt
+
+import openai
+import os
+import matplotlib.pyplot as plt
+import numpy as np
+import urllib.request
+from PIL import Image
 import os
 import urllib.request
 from PIL import Image
