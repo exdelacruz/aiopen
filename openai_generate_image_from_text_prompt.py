@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1tXUS4BYIqarugFDi5MWBqXR2QPhxTNb9
 """
 
-!pip install openai
+pip install openai
 
 """##### Environment variable for the hidden openAI API Key"""
 
