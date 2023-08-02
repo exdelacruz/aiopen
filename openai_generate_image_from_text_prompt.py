@@ -7,14 +7,14 @@ Original file is located at
     https://colab.research.google.com/drive/1tXUS4BYIqarugFDi5MWBqXR2QPhxTNb9
 """
 
-pip install openai
-
 """##### Environment variable for the hidden openAI API Key"""
 
 # Commented out IPython magic to ensure Python compatibility.
 # %env OPENAI_API_KEY=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
 
 """##### import the relevant libraries"""
+
+!pip install openai
 
 import urllib.request
 from PIL import Image
