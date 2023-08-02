@@ -15,6 +15,7 @@ Original file is located at
 """##### import the relevant libraries"""
 
 pip install openai
+pip install -r requirements.txt
 
 import urllib.request
 from PIL import Image
@@ -27,6 +28,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import urllib.request
 from PIL import Image
+
 
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
