@@ -14,7 +14,8 @@ Original file is located at
 
 """##### import the relevant libraries"""
 
-pip install openai
+openai
+
 pip install -r requirements.txt
 
 import urllib.request
